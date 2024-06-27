@@ -1,5 +1,0 @@
-PR Type
-
-Description
-
-ETC
